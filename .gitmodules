@@ -1,0 +1,3 @@
+[submodule "Source/Win32Bindings"]
+	path = Source/Win32Bindings
+	url = ../Win32Bindings.git
